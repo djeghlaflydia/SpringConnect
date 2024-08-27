@@ -1,0 +1,17 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            #client-id: Ov23lih2Ds1Kqz1tEXOr
+            #client-secret: 465cb54957c399645e3d178af5c63a4c48e8aa18
+          google:
+            #client-id: 777017378711-66s4jmdlp0miqt9v0g29enacj22m3mga.apps.googleusercontent.com
+            #client-secret: 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
+            
+logging:
+  level:
+    org:
+      springframework:
+        security: TRACE
