@@ -4,7 +4,7 @@
 
 - **Log in using a traditional form** with a username and password.
 
-  ![git1](https://github.com/user-attachments/assets/1266a29c-c50a-4eb2-b6c0-4d335f5e1478)
+![git1](https://github.com/user-attachments/assets/b2cde83b-b3e4-4877-b0d7-5b0c723d9fd1)
 
 - **Authenticate via GitHub** using your GitHub credentials.
 - **Sign in with Google** for a quick and secure login.
